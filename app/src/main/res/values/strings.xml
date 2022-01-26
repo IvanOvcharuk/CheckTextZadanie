@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CheckTextZadanie</string>
+    <string name="msg_shown">CTView is:</string>
+    <string name="msg_shown1">CTView1 is:</string>
+    <string name="msg_shown2">CTView2 is:</string>
+    <string name="checked">zaznaczone</string>
+    <string name="unchecked">odznaczone</string>
+    <string name="checked1">zaznaczone</string>
+    <string name="unchecked1">odznaczone</string>
+    <string name="checked2">zaznaczone</string>
+    <string name="unchecked2">odznaczone</string>
+    <string name="checkedTextView">CheckedTextView</string>
+</resources>
