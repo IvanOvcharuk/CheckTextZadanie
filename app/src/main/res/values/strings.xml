@@ -3,10 +3,10 @@
     <string name="msg_shown">Cukier</string>
     <string name="msg_shown1">Mąka</string>
     <string name="msg_shown2">Jabłka</string>
-    <string name="checked">zaznaczone</string>
-    <string name="unchecked">odznaczone</string>
-    <string name="checked1">zaznaczone</string>
-    <string name="unchecked1">odznaczone</string>
+    <string name="checked">zaznaczony</string>
+    <string name="unchecked">odznaczony</string>
+    <string name="checked1">zaznaczona</string>
+    <string name="unchecked1">odznaczona</string>
     <string name="checked2">zaznaczone</string>
     <string name="unchecked2">odznaczone</string>
     <string name="checkedTextView">CheckedTextView</string>
